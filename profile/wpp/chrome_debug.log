@@ -1,0 +1,4 @@
+[3820:7920:0630/175509.036:ERROR:device_event_log_impl.cc(214)] [17:55:09.037] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[3820:7920:0630/175509.046:ERROR:device_event_log_impl.cc(214)] [17:55:09.047] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[3820:13696:0630/175604.515:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[3820:7920:0630/175605.949:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
