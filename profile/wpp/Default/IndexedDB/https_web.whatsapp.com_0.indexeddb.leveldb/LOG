@@ -1,118 +1,745 @@
-2022/06/30-17:55:06.151 2bd0 Reusing MANIFEST C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/30-17:55:06.153 2bd0 Recovering log #4614
-2022/06/30-17:55:06.197 2bd0 Reusing old log C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004614.log 
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4597
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4598
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4599
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4600
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4601
-2022/06/30-17:55:06.198 2bd0 Delete type=2 #4619
-2022/06/30-17:55:20.737 3440 Level-0 table #4647: started
-2022/06/30-17:55:20.779 3440 Level-0 table #4647: 1214906 bytes OK
-2022/06/30-17:55:20.782 3440 Delete type=0 #4614
-2022/06/30-17:55:20.786 3440 Compacting 1@0 + 1@1 files
-2022/06/30-17:55:20.834 3440 Generated table #4648@0: 21158 keys, 474872 bytes
-2022/06/30-17:55:20.840 3440 Generated table #4649@0: 878 keys, 79783 bytes
-2022/06/30-17:55:20.846 3440 Generated table #4650@0: 1134 keys, 40492 bytes
-2022/06/30-17:55:20.849 3440 Generated table #4651@0: 200 keys, 24324 bytes
-2022/06/30-17:55:20.849 3440 Compacted 1@0 + 1@1 files => 619471 bytes
-2022/06/30-17:55:20.851 3440 compacted to: files[ 0 4 58 0 0 0 0 ]
-2022/06/30-17:55:20.859 2df0 Compacting 1@1 + 9@2 files
-2022/06/30-17:55:20.981 2df0 Generated table #4652@1: 41419 keys, 2258112 bytes
-2022/06/30-17:55:21.094 2df0 Generated table #4653@1: 43801 keys, 2288157 bytes
-2022/06/30-17:55:21.179 2df0 Generated table #4654@1: 19004 keys, 2334116 bytes
-2022/06/30-17:55:21.283 2df0 Generated table #4655@1: 28375 keys, 2289104 bytes
-2022/06/30-17:55:21.382 2df0 Generated table #4656@1: 29607 keys, 2274614 bytes
-2022/06/30-17:55:21.505 2df0 Generated table #4657@1: 99759 keys, 2257704 bytes
-2022/06/30-17:55:21.636 2df0 Generated table #4658@1: 53919 keys, 2713744 bytes
-2022/06/30-17:55:21.719 2df0 Generated table #4659@1: 20454 keys, 2394427 bytes
-2022/06/30-17:55:21.823 2df0 Generated table #4660@1: 38553 keys, 2207114 bytes
-2022/06/30-17:55:21.840 2df0 Generated table #4661@1: 8142 keys, 209170 bytes
-2022/06/30-17:55:21.840 2df0 Compacted 1@1 + 9@2 files => 21226262 bytes
-2022/06/30-17:55:21.843 2df0 compacted to: files[ 0 3 59 0 0 0 0 ]
-2022/06/30-17:55:21.844 2df0 Delete type=2 #4618
-2022/06/30-17:55:21.844 2df0 Delete type=2 #4647
-2022/06/30-17:55:23.035 3440 Compacting 1@1 + 10@2 files
-2022/06/30-17:55:23.128 3440 Generated table #4662@1: 22280 keys, 2180996 bytes
-2022/06/30-17:55:23.185 3440 Generated table #4663@1: 3526 keys, 2151795 bytes
-2022/06/30-17:55:23.237 3440 Generated table #4664@1: 3928 keys, 2153877 bytes
-2022/06/30-17:55:23.288 3440 Generated table #4665@1: 3490 keys, 2152373 bytes
-2022/06/30-17:55:23.365 3440 Generated table #4666@1: 3489 keys, 2150477 bytes
-2022/06/30-17:55:23.414 3440 Generated table #4667@1: 4021 keys, 2148229 bytes
-2022/06/30-17:55:23.580 3440 Generated table #4668@1: 33988 keys, 2229669 bytes
-2022/06/30-17:55:23.708 3440 Generated table #4669@1: 31974 keys, 2270994 bytes
-2022/06/30-17:55:23.799 3440 Generated table #4670@1: 31205 keys, 2260222 bytes
-2022/06/30-17:55:23.851 3440 Generated table #4671@1: 15998 keys, 1277851 bytes
-2022/06/30-17:55:23.851 3440 Compacted 1@1 + 10@2 files => 20976483 bytes
-2022/06/30-17:55:23.853 3440 compacted to: files[ 0 2 59 0 0 0 0 ]
-2022/06/30-17:55:30.455 2df0 Compacting 1@1 + 5@2 files
-2022/06/30-17:55:30.594 2df0 Generated table #4672@1: 90675 keys, 2238143 bytes
-2022/06/30-17:55:30.727 2df0 Generated table #4673@1: 90562 keys, 2237956 bytes
-2022/06/30-17:55:30.842 2df0 Generated table #4674@1: 91545 keys, 2240935 bytes
-2022/06/30-17:55:30.961 2df0 Generated table #4675@1: 89036 keys, 2238728 bytes
-2022/06/30-17:55:30.973 2df0 Generated table #4676@1: 6159 keys, 293671 bytes
-2022/06/30-17:55:30.973 2df0 Compacted 1@1 + 5@2 files => 9249433 bytes
-2022/06/30-17:55:30.975 2df0 compacted to: files[ 0 1 59 0 0 0 0 ]
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4620
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4621
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4622
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4623
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4624
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4625
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4626
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4627
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4628
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4629
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4630
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4631
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4632
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4633
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4634
-2022/06/30-17:55:30.976 2df0 Delete type=2 #4635
-2022/06/30-17:55:30.977 2df0 Delete type=2 #4636
-2022/06/30-17:55:30.977 2df0 Delete type=2 #4637
-2022/06/30-17:55:30.977 2df0 Delete type=2 #4638
-2022/06/30-17:55:30.977 2df0 Delete type=2 #4648
-2022/06/30-17:55:30.977 2df0 Delete type=2 #4649
-2022/06/30-17:55:31.669 2df0 Compacting 1@1 + 10@2 files
-2022/06/30-17:55:31.793 2df0 Generated table #4677@1: 75602 keys, 2215051 bytes
-2022/06/30-17:55:31.916 2df0 Generated table #4678@1: 91676 keys, 2241809 bytes
-2022/06/30-17:55:32.004 2df0 Generated table #4679@1: 90697 keys, 2239155 bytes
-2022/06/30-17:55:32.106 2df0 Generated table #4680@1: 90149 keys, 2239185 bytes
-2022/06/30-17:55:32.206 2df0 Generated table #4681@1: 90691 keys, 2238746 bytes
-2022/06/30-17:55:32.310 2df0 Generated table #4682@1: 89055 keys, 2238181 bytes
-2022/06/30-17:55:32.409 2df0 Generated table #4683@1: 90272 keys, 2240284 bytes
-2022/06/30-17:55:32.845 2df0 Generated table #4684@1: 90878 keys, 2240287 bytes
-2022/06/30-17:55:33.840 2df0 Generated table #4685@1: 91106 keys, 2239291 bytes
-2022/06/30-17:55:33.997 2df0 Generated table #4686@1: 88943 keys, 2236077 bytes
-2022/06/30-17:55:34.006 2df0 Generated table #4687@1: 1957 keys, 47886 bytes
-2022/06/30-17:55:34.006 2df0 Compacted 1@1 + 10@2 files => 22415952 bytes
-2022/06/30-17:55:34.015 2df0 compacted to: files[ 0 0 60 0 0 0 0 ]
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4640
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4641
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4642
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4643
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4644
-2022/06/30-17:55:34.015 2df0 Delete type=2 #4651
-2022/06/30-17:56:01.162 12c4 Level-0 table #4689: started
-2022/06/30-17:56:01.191 12c4 Level-0 table #4689: 1246192 bytes OK
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4602
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4603
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4604
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4605
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4606
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4607
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4608
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4609
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4610
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4611
-2022/06/30-17:56:01.195 12c4 Delete type=0 #4646
-2022/06/30-17:56:01.195 12c4 Delete type=2 #4650
-2022/06/30-17:56:02.495 3440 Compacting 1@0 + 0@1 files
-2022/06/30-17:56:02.533 3440 Generated table #4690@0: 19427 keys, 434239 bytes
-2022/06/30-17:56:02.539 3440 Generated table #4691@0: 1207 keys, 91001 bytes
-2022/06/30-17:56:02.545 3440 Generated table #4692@0: 1044 keys, 35532 bytes
-2022/06/30-17:56:02.548 3440 Generated table #4693@0: 577 keys, 32488 bytes
-2022/06/30-17:56:02.549 3440 Compacted 1@0 + 0@1 files => 593260 bytes
-2022/06/30-17:56:02.551 3440 compacted to: files[ 0 4 60 0 0 0 0 ]
-2022/06/30-17:56:02.551 3440 Delete type=2 #4689
+2022/07/04-18:05:24.297 2f3c Reusing MANIFEST C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-007213
+2022/07/04-18:05:24.298 2f3c Recovering log #7385
+2022/07/04-18:05:24.379 2f3c Reusing old log C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/007385.log 
+2022/07/04-18:05:33.781 3558 Level-0 table #7435: started
+2022/07/04-18:05:33.825 3558 Level-0 table #7435: 1206876 bytes OK
+2022/07/04-18:05:33.827 3558 Delete type=0 #7385
+2022/07/04-18:05:34.052 3558 Compacting 1@0 + 1@1 files
+2022/07/04-18:05:34.101 3558 Generated table #7436@0: 21026 keys, 501744 bytes
+2022/07/04-18:05:34.104 3558 Generated table #7437@0: 51 keys, 7054 bytes
+2022/07/04-18:05:34.107 3558 Generated table #7438@0: 197 keys, 12321 bytes
+2022/07/04-18:05:34.111 3558 Generated table #7439@0: 798 keys, 16660 bytes
+2022/07/04-18:05:34.115 3558 Generated table #7440@0: 307 keys, 32626 bytes
+2022/07/04-18:05:34.115 3558 Compacted 1@0 + 1@1 files => 570405 bytes
+2022/07/04-18:05:34.116 3558 compacted to: files[ 0 5 46 4 0 0 0 ]
+2022/07/04-18:05:34.173 224c Compacting 1@1 + 11@2 files
+2022/07/04-18:05:34.284 224c Generated table #7441@1: 46459 keys, 2213330 bytes
+2022/07/04-18:05:34.331 224c Generated table #7442@1: 3311 keys, 2150229 bytes
+2022/07/04-18:05:34.403 224c Generated table #7443@1: 3909 keys, 2154877 bytes
+2022/07/04-18:05:34.453 224c Generated table #7444@1: 3644 keys, 2148583 bytes
+2022/07/04-18:05:34.498 224c Generated table #7445@1: 3544 keys, 2153405 bytes
+2022/07/04-18:05:34.529 224c Generated table #7446@1: 3308 keys, 2150260 bytes
+2022/07/04-18:05:34.585 224c Generated table #7447@1: 4068 keys, 2148115 bytes
+2022/07/04-18:05:34.660 224c Generated table #7448@1: 36418 keys, 2234440 bytes
+2022/07/04-18:05:34.740 224c Generated table #7449@1: 31265 keys, 2271313 bytes
+2022/07/04-18:05:34.827 224c Generated table #7450@1: 31603 keys, 2262852 bytes
+2022/07/04-18:05:34.862 224c Generated table #7451@1: 11093 keys, 789692 bytes
+2022/07/04-18:05:34.862 224c Compacted 1@1 + 11@2 files => 22677096 bytes
+2022/07/04-18:05:34.864 224c compacted to: files[ 0 4 46 4 0 0 0 ]
+2022/07/04-18:05:35.399 3558 Compacting 1@1 + 10@2 files
+2022/07/04-18:05:35.498 3558 Generated table #7452@1: 43748 keys, 2292732 bytes
+2022/07/04-18:05:35.582 3558 Generated table #7453@1: 28353 keys, 2286171 bytes
+2022/07/04-18:05:35.678 3558 Generated table #7454@1: 36661 keys, 2277873 bytes
+2022/07/04-18:05:35.759 3558 Generated table #7455@1: 28993 keys, 2285714 bytes
+2022/07/04-18:05:35.854 3558 Generated table #7456@1: 75447 keys, 2261596 bytes
+2022/07/04-18:05:35.988 3558 Generated table #7457@1: 102571 keys, 2255962 bytes
+2022/07/04-18:05:36.111 3558 Generated table #7458@1: 82484 keys, 2441747 bytes
+2022/07/04-18:05:36.212 3558 Generated table #7459@1: 1109 keys, 3223168 bytes
+2022/07/04-18:05:36.279 3558 Generated table #7460@1: 23082 keys, 2176949 bytes
+2022/07/04-18:05:36.360 3558 Generated table #7461@1: 32564 keys, 1805056 bytes
+2022/07/04-18:05:36.360 3558 Compacted 1@1 + 10@2 files => 23306968 bytes
+2022/07/04-18:05:36.363 3558 compacted to: files[ 0 3 46 4 0 0 0 ]
+2022/07/04-18:05:36.363 3558 Delete type=2 #7390
+2022/07/04-18:05:36.364 3558 Delete type=2 #7393
+2022/07/04-18:05:36.364 3558 Delete type=2 #7394
+2022/07/04-18:05:36.364 3558 Delete type=2 #7395
+2022/07/04-18:05:36.364 3558 Delete type=2 #7396
+2022/07/04-18:05:36.364 3558 Delete type=2 #7397
+2022/07/04-18:05:36.364 3558 Delete type=2 #7398
+2022/07/04-18:05:36.364 3558 Delete type=2 #7399
+2022/07/04-18:05:36.364 3558 Delete type=2 #7400
+2022/07/04-18:05:36.364 3558 Delete type=2 #7401
+2022/07/04-18:05:36.364 3558 Delete type=2 #7402
+2022/07/04-18:05:36.364 3558 Delete type=2 #7422
+2022/07/04-18:05:36.364 3558 Delete type=2 #7435
+2022/07/04-18:05:36.364 3558 Delete type=2 #7437
+2022/07/04-18:05:36.472 2f3c Compacting 1@1 + 11@2 files
+2022/07/04-18:05:36.537 2f3c Generated table #7462@1: 18667 keys, 2163623 bytes
+2022/07/04-18:05:36.588 2f3c Generated table #7463@1: 5594 keys, 2125313 bytes
+2022/07/04-18:05:36.634 2f3c Generated table #7464@1: 5332 keys, 2123926 bytes
+2022/07/04-18:05:36.680 2f3c Generated table #7465@1: 4787 keys, 2122288 bytes
+2022/07/04-18:05:36.712 2f3c Generated table #7466@1: 2732 keys, 2116886 bytes
+2022/07/04-18:05:36.751 2f3c Generated table #7467@1: 2596 keys, 2127812 bytes
+2022/07/04-18:05:36.788 2f3c Generated table #7468@1: 2153 keys, 2114312 bytes
+2022/07/04-18:05:36.924 2f3c Generated table #7469@1: 75258 keys, 2215043 bytes
+2022/07/04-18:05:37.060 2f3c Generated table #7470@1: 93192 keys, 2241896 bytes
+2022/07/04-18:05:37.186 2f3c Generated table #7471@1: 90546 keys, 2237767 bytes
+2022/07/04-18:05:37.217 2f3c Generated table #7472@1: 21083 keys, 516241 bytes
+2022/07/04-18:05:37.217 2f3c Compacted 1@1 + 11@2 files => 22105107 bytes
+2022/07/04-18:05:37.219 2f3c compacted to: files[ 0 2 46 4 0 0 0 ]
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7392
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7404
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7405
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7406
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7407
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7408
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7409
+2022/07/04-18:05:37.220 2f3c Delete type=2 #7410
+2022/07/04-18:05:37.221 2f3c Delete type=2 #7411
+2022/07/04-18:05:37.221 2f3c Delete type=2 #7412
+2022/07/04-18:05:37.221 2f3c Delete type=2 #7436
+2022/07/04-18:05:37.861 2bc8 Compacting 1@2 + 4@3 files
+2022/07/04-18:05:37.983 2bc8 Generated table #7473@2: 38655 keys, 2259445 bytes
+2022/07/04-18:05:38.084 2bc8 Generated table #7474@2: 45554 keys, 2281678 bytes
+2022/07/04-18:05:38.147 2bc8 Generated table #7475@2: 18617 keys, 2340108 bytes
+2022/07/04-18:05:38.232 2bc8 Generated table #7476@2: 35951 keys, 2285200 bytes
+2022/07/04-18:05:38.274 2bc8 Generated table #7477@2: 16061 keys, 1352565 bytes
+2022/07/04-18:05:38.274 2bc8 Compacted 1@2 + 4@3 files => 10518996 bytes
+2022/07/04-18:05:38.276 2bc8 compacted to: files[ 0 2 45 5 0 0 0 ]
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7280
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7413
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7414
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7415
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7416
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7423
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7424
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7425
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7426
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7427
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7428
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7429
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7430
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7431
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7432
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7438
+2022/07/04-18:05:38.277 2bc8 Delete type=2 #7452
+2022/07/04-18:05:39.702 2bc8 Compacting 1@1 + 4@2 files
+2022/07/04-18:05:39.807 2bc8 Generated table #7478@1: 91076 keys, 2239196 bytes
+2022/07/04-18:05:39.907 2bc8 Generated table #7479@1: 90544 keys, 2237971 bytes
+2022/07/04-18:05:40.547 2bc8 Generated table #7480@1: 87441 keys, 2236596 bytes
+2022/07/04-18:05:41.286 2bc8 Generated table #7481@1: 3517 keys, 378315 bytes
+2022/07/04-18:05:41.286 2bc8 Compacted 1@1 + 4@2 files => 7092078 bytes
+2022/07/04-18:05:41.288 2bc8 compacted to: files[ 0 1 45 5 0 0 0 ]
+2022/07/04-18:05:56.461 2cec Compacting 1@1 + 10@2 files
+2022/07/04-18:05:56.594 2cec Generated table #7482@1: 89476 keys, 2238695 bytes
+2022/07/04-18:05:56.708 2cec Generated table #7483@1: 90249 keys, 2239369 bytes
+2022/07/04-18:05:56.839 2cec Generated table #7484@1: 91023 keys, 2240197 bytes
+2022/07/04-18:05:56.971 2cec Generated table #7485@1: 89018 keys, 2236855 bytes
+2022/07/04-18:05:57.102 2cec Generated table #7486@1: 91022 keys, 2241156 bytes
+2022/07/04-18:05:57.221 2cec Generated table #7487@1: 90433 keys, 2238713 bytes
+2022/07/04-18:05:57.345 2cec Generated table #7488@1: 91149 keys, 2239863 bytes
+2022/07/04-18:05:57.455 2cec Generated table #7489@1: 89258 keys, 2236687 bytes
+2022/07/04-18:05:57.560 2cec Generated table #7490@1: 90371 keys, 2238794 bytes
+2022/07/04-18:05:57.652 2cec Generated table #7491@1: 90765 keys, 2239777 bytes
+2022/07/04-18:05:57.657 2cec Generated table #7492@1: 540 keys, 13389 bytes
+2022/07/04-18:05:57.657 2cec Compacted 1@1 + 10@2 files => 22403495 bytes
+2022/07/04-18:05:57.658 2cec compacted to: files[ 0 0 46 5 0 0 0 ]
+2022/07/04-18:05:57.659 2cec Delete type=2 #7281
+2022/07/04-18:05:57.659 2cec Delete type=2 #7282
+2022/07/04-18:05:57.659 2cec Delete type=2 #7283
+2022/07/04-18:05:57.659 2cec Delete type=2 #7284
+2022/07/04-18:05:57.659 2cec Delete type=2 #7285
+2022/07/04-18:05:57.659 2cec Delete type=2 #7286
+2022/07/04-18:05:57.659 2cec Delete type=2 #7287
+2022/07/04-18:05:57.659 2cec Delete type=2 #7328
+2022/07/04-18:05:57.659 2cec Delete type=2 #7375
+2022/07/04-18:05:57.659 2cec Delete type=2 #7417
+2022/07/04-18:05:57.659 2cec Delete type=2 #7418
+2022/07/04-18:05:57.659 2cec Delete type=2 #7419
+2022/07/04-18:05:57.659 2cec Delete type=2 #7420
+2022/07/04-18:05:57.659 2cec Delete type=2 #7421
+2022/07/04-18:05:57.659 2cec Delete type=2 #7439
+2022/07/04-18:05:57.659 2cec Delete type=2 #7440
+2022/07/04-18:07:02.908 2bc8 Level-0 table #7494: started
+2022/07/04-18:07:02.947 2bc8 Level-0 table #7494: 1245956 bytes OK
+2022/07/04-18:07:02.950 2bc8 Delete type=0 #7434
+2022/07/04-18:07:03.020 2cec Compacting 1@0 + 0@1 files
+2022/07/04-18:07:03.044 2cec Generated table #7495@0: 17987 keys, 352062 bytes
+2022/07/04-18:07:03.047 2cec Generated table #7496@0: 93 keys, 21427 bytes
+2022/07/04-18:07:03.052 2cec Generated table #7497@0: 1053 keys, 94639 bytes
+2022/07/04-18:07:03.058 2cec Generated table #7498@0: 4459 keys, 62597 bytes
+2022/07/04-18:07:03.062 2cec Generated table #7499@0: 1538 keys, 47441 bytes
+2022/07/04-18:07:03.062 2cec Compacted 1@0 + 0@1 files => 578166 bytes
+2022/07/04-18:07:03.064 2cec compacted to: files[ 0 5 46 5 0 0 0 ]
+2022/07/04-18:07:03.064 2cec Delete type=2 #7494
+2022/07/04-18:07:03.671 224c Compacting 1@1 + 9@2 files
+2022/07/04-18:07:03.776 224c Generated table #7500@1: 41471 keys, 2296556 bytes
+2022/07/04-18:07:03.859 224c Generated table #7501@1: 35802 keys, 2274213 bytes
+2022/07/04-18:07:03.917 224c Generated table #7502@1: 30420 keys, 2282222 bytes
+2022/07/04-18:07:04.007 224c Generated table #7503@1: 67039 keys, 2266374 bytes
+2022/07/04-18:07:04.075 224c Generated table #7504@1: 102641 keys, 2256273 bytes
+2022/07/04-18:07:04.145 224c Generated table #7505@1: 94742 keys, 2306916 bytes
+2022/07/04-18:07:04.211 224c Generated table #7506@1: 1035 keys, 3212108 bytes
+2022/07/04-18:07:04.259 224c Generated table #7507@1: 21798 keys, 2333821 bytes
+2022/07/04-18:07:04.317 224c Generated table #7508@1: 34001 keys, 2089213 bytes
+2022/07/04-18:07:04.317 224c Compacted 1@1 + 9@2 files => 21317696 bytes
+2022/07/04-18:07:04.320 224c compacted to: files[ 0 4 46 5 0 0 0 ]
+2022/07/04-18:07:04.320 224c Delete type=2 #7453
+2022/07/04-18:07:04.320 224c Delete type=2 #7454
+2022/07/04-18:07:04.320 224c Delete type=2 #7455
+2022/07/04-18:07:04.320 224c Delete type=2 #7456
+2022/07/04-18:07:04.320 224c Delete type=2 #7457
+2022/07/04-18:07:04.320 224c Delete type=2 #7458
+2022/07/04-18:07:04.321 224c Delete type=2 #7459
+2022/07/04-18:07:04.321 224c Delete type=2 #7460
+2022/07/04-18:07:04.321 224c Delete type=2 #7461
+2022/07/04-18:07:04.321 224c Delete type=2 #7495
+2022/07/04-18:07:17.451 2e08 Compacting 1@2 + 5@3 files
+2022/07/04-18:07:17.517 2e08 Generated table #7509@2: 39338 keys, 2259892 bytes
+2022/07/04-18:07:17.584 2e08 Generated table #7510@2: 45555 keys, 2280189 bytes
+2022/07/04-18:07:17.640 2e08 Generated table #7511@2: 18714 keys, 2340947 bytes
+2022/07/04-18:07:17.705 2e08 Generated table #7512@2: 35983 keys, 2284438 bytes
+2022/07/04-18:07:17.767 2e08 Generated table #7513@2: 26497 keys, 2292947 bytes
+2022/07/04-18:07:17.799 2e08 Generated table #7514@2: 15513 keys, 1180618 bytes
+2022/07/04-18:07:17.799 2e08 Compacted 1@2 + 5@3 files => 12639031 bytes
+2022/07/04-18:07:17.801 2e08 compacted to: files[ 0 4 45 6 0 0 0 ]
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7473
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7474
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7475
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7476
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7477
+2022/07/04-18:07:17.801 2e08 Delete type=2 #7500
+2022/07/04-18:07:29.576 224c Compacting 1@1 + 10@2 files
+2022/07/04-18:07:29.669 224c Generated table #7515@1: 46459 keys, 2213320 bytes
+2022/07/04-18:07:29.704 224c Generated table #7516@1: 3311 keys, 2150229 bytes
+2022/07/04-18:07:29.745 224c Generated table #7517@1: 3909 keys, 2154877 bytes
+2022/07/04-18:07:29.781 224c Generated table #7518@1: 3644 keys, 2148583 bytes
+2022/07/04-18:07:29.847 224c Generated table #7519@1: 3544 keys, 2153405 bytes
+2022/07/04-18:07:29.908 224c Generated table #7520@1: 3291 keys, 2146022 bytes
+2022/07/04-18:07:29.941 224c Generated table #7521@1: 4063 keys, 2148157 bytes
+2022/07/04-18:07:30.051 224c Generated table #7522@1: 36126 keys, 2233690 bytes
+2022/07/04-18:07:30.210 224c Generated table #7523@1: 31260 keys, 2271574 bytes
+2022/07/04-18:07:30.313 224c Generated table #7524@1: 31663 keys, 2263705 bytes
+2022/07/04-18:07:30.317 224c Generated table #7525@1: 318 keys, 24040 bytes
+2022/07/04-18:07:30.317 224c Compacted 1@1 + 10@2 files => 21907602 bytes
+2022/07/04-18:07:30.319 224c compacted to: files[ 0 3 46 6 0 0 0 ]
+2022/07/04-18:07:30.320 224c Delete type=2 #7441
+2022/07/04-18:07:30.320 224c Delete type=2 #7442
+2022/07/04-18:07:30.320 224c Delete type=2 #7443
+2022/07/04-18:07:30.320 224c Delete type=2 #7444
+2022/07/04-18:07:30.320 224c Delete type=2 #7445
+2022/07/04-18:07:30.320 224c Delete type=2 #7446
+2022/07/04-18:07:30.320 224c Delete type=2 #7447
+2022/07/04-18:07:30.320 224c Delete type=2 #7448
+2022/07/04-18:07:30.320 224c Delete type=2 #7449
+2022/07/04-18:07:30.320 224c Delete type=2 #7450
+2022/07/04-18:07:30.320 224c Delete type=2 #7496
+2022/07/04-18:07:32.515 2bc8 Compacting 1@1 + 11@2 files
+2022/07/04-18:07:32.594 2bc8 Generated table #7526@1: 27597 keys, 2207324 bytes
+2022/07/04-18:07:32.638 2bc8 Generated table #7527@1: 6358 keys, 2126267 bytes
+2022/07/04-18:07:32.673 2bc8 Generated table #7528@1: 4754 keys, 2124309 bytes
+2022/07/04-18:07:32.723 2bc8 Generated table #7529@1: 5109 keys, 2126570 bytes
+2022/07/04-18:07:32.763 2bc8 Generated table #7530@1: 4162 keys, 2126545 bytes
+2022/07/04-18:07:32.798 2bc8 Generated table #7531@1: 2284 keys, 2115702 bytes
+2022/07/04-18:07:32.831 2bc8 Generated table #7532@1: 1496 keys, 2116274 bytes
+2022/07/04-18:07:32.892 2bc8 Generated table #7533@1: 33398 keys, 2154802 bytes
+2022/07/04-18:07:33.036 2bc8 Generated table #7534@1: 100774 keys, 2253228 bytes
+2022/07/04-18:07:33.176 2bc8 Generated table #7535@1: 90089 keys, 2237623 bytes
+2022/07/04-18:07:33.237 2bc8 Generated table #7536@1: 36897 keys, 884902 bytes
+2022/07/04-18:07:33.237 2bc8 Compacted 1@1 + 11@2 files => 22473546 bytes
+2022/07/04-18:07:33.238 2bc8 compacted to: files[ 0 2 46 6 0 0 0 ]
+2022/07/04-18:07:33.242 2bc8 Delete type=2 #7451
+2022/07/04-18:07:33.242 2bc8 Delete type=2 #7462
+2022/07/04-18:07:33.242 2bc8 Delete type=2 #7463
+2022/07/04-18:07:33.242 2bc8 Delete type=2 #7464
+2022/07/04-18:07:33.242 2bc8 Delete type=2 #7465
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7466
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7467
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7468
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7469
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7470
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7471
+2022/07/04-18:07:33.243 2bc8 Delete type=2 #7497
+2022/07/04-18:07:37.778 a00 Compacting 1@1 + 11@2 files
+2022/07/04-18:07:37.874 a00 Generated table #7537@1: 89521 keys, 2237863 bytes
+2022/07/04-18:07:37.957 a00 Generated table #7538@1: 90298 keys, 2239284 bytes
+2022/07/04-18:07:38.055 a00 Generated table #7539@1: 91830 keys, 2241144 bytes
+2022/07/04-18:07:38.130 a00 Generated table #7540@1: 88542 keys, 2237022 bytes
+2022/07/04-18:07:38.207 a00 Generated table #7541@1: 90742 keys, 2240133 bytes
+2022/07/04-18:07:38.353 a00 Generated table #7542@1: 91253 keys, 2240015 bytes
+2022/07/04-18:07:38.446 a00 Generated table #7543@1: 90708 keys, 2240391 bytes
+2022/07/04-18:07:38.520 a00 Generated table #7544@1: 89605 keys, 2238275 bytes
+2022/07/04-18:07:38.609 a00 Generated table #7545@1: 89984 keys, 2237666 bytes
+2022/07/04-18:07:38.694 a00 Generated table #7546@1: 90537 keys, 2239391 bytes
+2022/07/04-18:07:38.728 a00 Generated table #7547@1: 25286 keys, 616985 bytes
+2022/07/04-18:07:38.728 a00 Compacted 1@1 + 11@2 files => 23008169 bytes
+2022/07/04-18:07:38.731 a00 compacted to: files[ 0 1 46 6 0 0 0 ]
+2022/07/04-18:07:38.731 a00 Delete type=2 #7472
+2022/07/04-18:07:38.731 a00 Delete type=2 #7482
+2022/07/04-18:07:38.731 a00 Delete type=2 #7483
+2022/07/04-18:07:38.731 a00 Delete type=2 #7484
+2022/07/04-18:07:38.731 a00 Delete type=2 #7485
+2022/07/04-18:07:38.731 a00 Delete type=2 #7486
+2022/07/04-18:07:38.731 a00 Delete type=2 #7487
+2022/07/04-18:07:38.731 a00 Delete type=2 #7488
+2022/07/04-18:07:38.731 a00 Delete type=2 #7489
+2022/07/04-18:07:38.731 a00 Delete type=2 #7490
+2022/07/04-18:07:38.731 a00 Delete type=2 #7491
+2022/07/04-18:07:38.731 a00 Delete type=2 #7498
+2022/07/04-18:07:53.356 a00 Compacting 1@1 + 4@2 files
+2022/07/04-18:07:53.467 a00 Generated table #7548@1: 91099 keys, 2239446 bytes
+2022/07/04-18:07:53.589 a00 Generated table #7549@1: 90695 keys, 2238182 bytes
+2022/07/04-18:07:53.703 a00 Generated table #7550@1: 88259 keys, 2237436 bytes
+2022/07/04-18:07:53.722 a00 Generated table #7551@1: 3908 keys, 413980 bytes
+2022/07/04-18:07:53.722 a00 Compacted 1@1 + 4@2 files => 7129044 bytes
+2022/07/04-18:07:53.724 a00 compacted to: files[ 0 0 46 6 0 0 0 ]
+2022/07/04-18:08:27.338 224c Level-0 table #7553: started
+2022/07/04-18:08:27.373 224c Level-0 table #7553: 1273849 bytes OK
+2022/07/04-18:08:27.376 224c Delete type=2 #7478
+2022/07/04-18:08:27.376 224c Delete type=2 #7479
+2022/07/04-18:08:27.376 224c Delete type=2 #7480
+2022/07/04-18:08:27.376 224c Delete type=2 #7481
+2022/07/04-18:08:27.376 224c Delete type=0 #7493
+2022/07/04-18:08:27.376 224c Delete type=2 #7499
+2022/07/04-18:08:27.773 33dc Compacting 1@0 + 0@1 files
+2022/07/04-18:08:27.795 33dc Generated table #7554@0: 15890 keys, 360492 bytes
+2022/07/04-18:08:27.800 33dc Generated table #7555@0: 207 keys, 29800 bytes
+2022/07/04-18:08:27.807 33dc Generated table #7556@0: 4579 keys, 157407 bytes
+2022/07/04-18:08:27.812 33dc Generated table #7557@0: 3175 keys, 51590 bytes
+2022/07/04-18:08:27.812 33dc Compacted 1@0 + 0@1 files => 599289 bytes
+2022/07/04-18:08:27.815 33dc compacted to: files[ 0 4 46 6 0 0 0 ]
+2022/07/04-18:08:27.815 33dc Delete type=2 #7553
+2022/07/04-18:08:28.619 a00 Compacting 1@1 + 9@2 files
+2022/07/04-18:08:28.693 a00 Generated table #7558@1: 47154 keys, 2278020 bytes
+2022/07/04-18:08:28.764 a00 Generated table #7559@1: 31615 keys, 2288861 bytes
+2022/07/04-18:08:28.843 a00 Generated table #7560@1: 59882 keys, 2265659 bytes
+2022/07/04-18:08:28.923 a00 Generated table #7561@1: 102705 keys, 2255061 bytes
+2022/07/04-18:08:29.001 a00 Generated table #7562@1: 102635 keys, 2255015 bytes
+2022/07/04-18:08:29.079 a00 Generated table #7563@1: 3331 keys, 3137412 bytes
+2022/07/04-18:08:29.145 a00 Generated table #7564@1: 20556 keys, 2516320 bytes
+2022/07/04-18:08:29.211 a00 Generated table #7565@1: 32621 keys, 2199698 bytes
+2022/07/04-18:08:29.314 a00 Generated table #7566@1: 49027 keys, 2215490 bytes
+2022/07/04-18:08:29.321 a00 Generated table #7567@1: 235 keys, 181149 bytes
+2022/07/04-18:08:29.321 a00 Compacted 1@1 + 9@2 files => 21592685 bytes
+2022/07/04-18:08:29.324 a00 compacted to: files[ 0 3 47 6 0 0 0 ]
+2022/07/04-18:08:29.325 a00 Delete type=2 #7501
+2022/07/04-18:08:29.325 a00 Delete type=2 #7502
+2022/07/04-18:08:29.325 a00 Delete type=2 #7503
+2022/07/04-18:08:29.325 a00 Delete type=2 #7504
+2022/07/04-18:08:29.325 a00 Delete type=2 #7505
+2022/07/04-18:08:29.325 a00 Delete type=2 #7506
+2022/07/04-18:08:29.325 a00 Delete type=2 #7507
+2022/07/04-18:08:29.325 a00 Delete type=2 #7508
+2022/07/04-18:08:29.326 a00 Delete type=2 #7515
+2022/07/04-18:08:29.326 a00 Delete type=2 #7554
+2022/07/04-18:08:37.554 33dc Compacting 1@1 + 11@2 files
+2022/07/04-18:08:37.664 33dc Generated table #7568@1: 28982 keys, 2149264 bytes
+2022/07/04-18:08:37.806 33dc Generated table #7569@1: 101744 keys, 2255752 bytes
+2022/07/04-18:08:37.921 33dc Generated table #7570@1: 90511 keys, 2240736 bytes
+2022/07/04-18:08:38.037 33dc Generated table #7571@1: 91229 keys, 2238702 bytes
+2022/07/04-18:08:38.181 33dc Generated table #7572@1: 90253 keys, 2237642 bytes
+2022/07/04-18:08:38.333 33dc Generated table #7573@1: 90472 keys, 2239374 bytes
+2022/07/04-18:08:38.486 33dc Generated table #7574@1: 89869 keys, 2238013 bytes
+2022/07/04-18:08:38.618 33dc Generated table #7575@1: 90004 keys, 2237560 bytes
+2022/07/04-18:08:38.723 33dc Generated table #7576@1: 91793 keys, 2240233 bytes
+2022/07/04-18:08:38.865 33dc Generated table #7577@1: 89754 keys, 2238102 bytes
+2022/07/04-18:08:38.923 33dc Generated table #7578@1: 44020 keys, 1084078 bytes
+2022/07/04-18:08:38.923 33dc Compacted 1@1 + 11@2 files => 23399456 bytes
+2022/07/04-18:08:38.925 33dc compacted to: files[ 0 2 47 6 0 0 0 ]
+2022/07/04-18:08:38.925 33dc Delete type=2 #7533
+2022/07/04-18:08:38.925 33dc Delete type=2 #7534
+2022/07/04-18:08:38.925 33dc Delete type=2 #7535
+2022/07/04-18:08:38.925 33dc Delete type=2 #7536
+2022/07/04-18:08:38.925 33dc Delete type=2 #7537
+2022/07/04-18:08:38.925 33dc Delete type=2 #7538
+2022/07/04-18:08:38.926 33dc Delete type=2 #7539
+2022/07/04-18:08:38.926 33dc Delete type=2 #7540
+2022/07/04-18:08:38.926 33dc Delete type=2 #7541
+2022/07/04-18:08:38.926 33dc Delete type=2 #7542
+2022/07/04-18:08:38.926 33dc Delete type=2 #7543
+2022/07/04-18:08:38.926 33dc Delete type=2 #7556
+2022/07/04-18:08:39.054 a00 Compacting 1@1 + 8@2 files
+2022/07/04-18:08:39.104 a00 Generated table #7579@1: 3546 keys, 2153793 bytes
+2022/07/04-18:08:39.147 a00 Generated table #7580@1: 3269 keys, 2145024 bytes
+2022/07/04-18:08:39.197 a00 Generated table #7581@1: 4067 keys, 2148824 bytes
+2022/07/04-18:08:39.368 a00 Generated table #7582@1: 35889 keys, 2232254 bytes
+2022/07/04-18:08:39.503 a00 Generated table #7583@1: 31240 keys, 2271091 bytes
+2022/07/04-18:08:39.625 a00 Generated table #7584@1: 31701 keys, 2263581 bytes
+2022/07/04-18:08:39.711 a00 Generated table #7585@1: 28148 keys, 2210560 bytes
+2022/07/04-18:08:39.715 a00 Generated table #7586@1: 157 keys, 47352 bytes
+2022/07/04-18:08:39.715 a00 Compacted 1@1 + 8@2 files => 15472479 bytes
+2022/07/04-18:08:39.717 a00 compacted to: files[ 0 1 47 6 0 0 0 ]
+2022/07/04-18:08:39.718 a00 Delete type=2 #7519
+2022/07/04-18:08:39.718 a00 Delete type=2 #7520
+2022/07/04-18:08:39.718 a00 Delete type=2 #7521
+2022/07/04-18:08:39.718 a00 Delete type=2 #7522
+2022/07/04-18:08:39.718 a00 Delete type=2 #7523
+2022/07/04-18:08:39.718 a00 Delete type=2 #7524
+2022/07/04-18:08:39.718 a00 Delete type=2 #7525
+2022/07/04-18:08:39.718 a00 Delete type=2 #7526
+2022/07/04-18:08:39.718 a00 Delete type=2 #7555
+2022/07/04-18:08:39.921 a00 Compacting 1@2 + 6@3 files
+2022/07/04-18:08:40.010 a00 Generated table #7587@2: 39590 keys, 2262230 bytes
+2022/07/04-18:08:40.086 a00 Generated table #7588@2: 45505 keys, 2281105 bytes
+2022/07/04-18:08:40.149 a00 Generated table #7589@2: 18900 keys, 2342229 bytes
+2022/07/04-18:08:40.229 a00 Generated table #7590@2: 36002 keys, 2283344 bytes
+2022/07/04-18:08:40.295 a00 Generated table #7591@2: 26507 keys, 2292489 bytes
+2022/07/04-18:08:40.363 a00 Generated table #7592@2: 30583 keys, 2271454 bytes
+2022/07/04-18:08:40.397 a00 Generated table #7593@2: 17708 keys, 1023902 bytes
+2022/07/04-18:08:40.397 a00 Compacted 1@2 + 6@3 files => 14756753 bytes
+2022/07/04-18:08:40.399 a00 compacted to: files[ 0 1 46 7 0 0 0 ]
+2022/07/04-18:08:40.400 a00 Delete type=2 #7509
+2022/07/04-18:08:40.400 a00 Delete type=2 #7510
+2022/07/04-18:08:40.400 a00 Delete type=2 #7511
+2022/07/04-18:08:40.400 a00 Delete type=2 #7512
+2022/07/04-18:08:40.400 a00 Delete type=2 #7513
+2022/07/04-18:08:40.400 a00 Delete type=2 #7514
+2022/07/04-18:08:40.400 a00 Delete type=2 #7558
+2022/07/04-18:08:42.248 224c Compacting 1@1 + 9@2 files
+2022/07/04-18:08:42.355 224c Generated table #7594@1: 89631 keys, 2237935 bytes
+2022/07/04-18:08:42.455 224c Generated table #7595@1: 89976 keys, 2237990 bytes
+2022/07/04-18:08:42.555 224c Generated table #7596@1: 90633 keys, 2237910 bytes
+2022/07/04-18:08:42.654 224c Generated table #7597@1: 91420 keys, 2241207 bytes
+2022/07/04-18:08:42.763 224c Generated table #7598@1: 91262 keys, 2238921 bytes
+2022/07/04-18:08:42.842 224c Generated table #7599@1: 89495 keys, 2237109 bytes
+2022/07/04-18:08:42.878 224c Generated table #7600@1: 30668 keys, 1117623 bytes
+2022/07/04-18:08:42.878 224c Compacted 1@1 + 9@2 files => 14548695 bytes
+2022/07/04-18:08:42.881 224c compacted to: files[ 0 0 44 7 0 0 0 ]
+2022/07/04-18:08:42.882 224c Delete type=2 #7492
+2022/07/04-18:08:42.882 224c Delete type=2 #7544
+2022/07/04-18:08:42.882 224c Delete type=2 #7545
+2022/07/04-18:08:42.882 224c Delete type=2 #7546
+2022/07/04-18:08:42.882 224c Delete type=2 #7547
+2022/07/04-18:08:42.882 224c Delete type=2 #7548
+2022/07/04-18:08:42.882 224c Delete type=2 #7549
+2022/07/04-18:08:42.882 224c Delete type=2 #7550
+2022/07/04-18:08:42.882 224c Delete type=2 #7551
+2022/07/04-18:08:42.882 224c Delete type=2 #7557
+2022/07/04-18:09:38.014 33dc Level-0 table #7602: started
+2022/07/04-18:09:38.058 33dc Level-0 table #7602: 1319860 bytes OK
+2022/07/04-18:09:38.061 33dc Delete type=0 #7552
+2022/07/04-18:09:38.630 a00 Compacting 1@0 + 0@1 files
+2022/07/04-18:09:38.656 a00 Generated table #7603@0: 15792 keys, 393822 bytes
+2022/07/04-18:09:38.660 a00 Generated table #7604@0: 216 keys, 31360 bytes
+2022/07/04-18:09:38.666 a00 Generated table #7605@0: 3873 keys, 135496 bytes
+2022/07/04-18:09:38.672 a00 Generated table #7606@0: 3064 keys, 48447 bytes
+2022/07/04-18:09:38.672 a00 Compacted 1@0 + 0@1 files => 609125 bytes
+2022/07/04-18:09:38.674 a00 compacted to: files[ 0 4 44 7 0 0 0 ]
+2022/07/04-18:09:38.675 a00 Delete type=2 #7602
+2022/07/04-18:09:47.721 33dc Compacting 1@1 + 10@2 files
+2022/07/04-18:09:47.828 33dc Generated table #7607@1: 44084 keys, 2295823 bytes
+2022/07/04-18:09:47.925 33dc Generated table #7608@1: 53195 keys, 2267550 bytes
+2022/07/04-18:09:48.051 33dc Generated table #7609@1: 102999 keys, 2257106 bytes
+2022/07/04-18:09:48.171 33dc Generated table #7610@1: 102607 keys, 2255066 bytes
+2022/07/04-18:09:48.284 33dc Generated table #7611@1: 12872 keys, 3060544 bytes
+2022/07/04-18:09:48.388 33dc Generated table #7612@1: 18120 keys, 2646326 bytes
+2022/07/04-18:09:48.492 33dc Generated table #7613@1: 30610 keys, 2197263 bytes
+2022/07/04-18:09:48.631 33dc Generated table #7614@1: 53125 keys, 2219615 bytes
+2022/07/04-18:09:48.691 33dc Generated table #7615@1: 3226 keys, 2160438 bytes
+2022/07/04-18:09:48.708 33dc Generated table #7616@1: 808 keys, 469307 bytes
+2022/07/04-18:09:48.708 33dc Compacted 1@1 + 10@2 files => 21829038 bytes
+2022/07/04-18:09:48.711 33dc compacted to: files[ 0 3 44 7 0 0 0 ]
+2022/07/04-18:09:48.712 33dc Delete type=2 #7516
+2022/07/04-18:09:48.712 33dc Delete type=2 #7559
+2022/07/04-18:09:48.712 33dc Delete type=2 #7560
+2022/07/04-18:09:48.712 33dc Delete type=2 #7561
+2022/07/04-18:09:48.712 33dc Delete type=2 #7562
+2022/07/04-18:09:48.713 33dc Delete type=2 #7563
+2022/07/04-18:09:48.713 33dc Delete type=2 #7564
+2022/07/04-18:09:48.713 33dc Delete type=2 #7565
+2022/07/04-18:09:48.714 33dc Delete type=2 #7566
+2022/07/04-18:09:48.714 33dc Delete type=2 #7567
+2022/07/04-18:09:48.714 33dc Delete type=2 #7603
+2022/07/04-18:09:52.454 224c Compacting 1@1 + 6@2 files
+2022/07/04-18:09:52.525 224c Generated table #7617@1: 3245 keys, 2146371 bytes
+2022/07/04-18:09:52.589 224c Generated table #7618@1: 4064 keys, 2147489 bytes
+2022/07/04-18:09:52.683 224c Generated table #7619@1: 35766 keys, 2230791 bytes
+2022/07/04-18:09:52.762 224c Generated table #7620@1: 31192 keys, 2270670 bytes
+2022/07/04-18:09:52.840 224c Generated table #7621@1: 31757 keys, 2264004 bytes
+2022/07/04-18:09:52.908 224c Generated table #7622@1: 28360 keys, 2210243 bytes
+2022/07/04-18:09:52.913 224c Generated table #7623@1: 88 keys, 23981 bytes
+2022/07/04-18:09:52.913 224c Compacted 1@1 + 6@2 files => 13293549 bytes
+2022/07/04-18:09:52.915 224c compacted to: files[ 0 2 45 7 0 0 0 ]
+2022/07/04-18:09:52.916 224c Delete type=2 #7580
+2022/07/04-18:09:52.916 224c Delete type=2 #7581
+2022/07/04-18:09:52.916 224c Delete type=2 #7582
+2022/07/04-18:09:52.916 224c Delete type=2 #7583
+2022/07/04-18:09:52.916 224c Delete type=2 #7584
+2022/07/04-18:09:52.916 224c Delete type=2 #7585
+2022/07/04-18:09:52.916 224c Delete type=2 #7604
+2022/07/04-18:09:53.086 33dc Compacting 1@2 + 7@3 files
+2022/07/04-18:09:53.207 33dc Generated table #7624@2: 39338 keys, 2262312 bytes
+2022/07/04-18:09:53.280 33dc Generated table #7625@2: 45555 keys, 2280189 bytes
+2022/07/04-18:09:53.343 33dc Generated table #7626@2: 18714 keys, 2340947 bytes
+2022/07/04-18:09:53.441 33dc Generated table #7627@2: 35983 keys, 2284438 bytes
+2022/07/04-18:09:53.526 33dc Generated table #7628@2: 26497 keys, 2292947 bytes
+2022/07/04-18:09:53.630 33dc Generated table #7629@2: 30630 keys, 2273954 bytes
+2022/07/04-18:09:53.748 33dc Generated table #7630@2: 35750 keys, 2285929 bytes
+2022/07/04-18:09:53.788 33dc Generated table #7631@2: 11367 keys, 851070 bytes
+2022/07/04-18:09:53.788 33dc Compacted 1@2 + 7@3 files => 16871786 bytes
+2022/07/04-18:09:53.791 33dc compacted to: files[ 0 2 44 8 0 0 0 ]
+2022/07/04-18:09:53.791 33dc Delete type=2 #7587
+2022/07/04-18:09:53.791 33dc Delete type=2 #7588
+2022/07/04-18:09:53.791 33dc Delete type=2 #7589
+2022/07/04-18:09:53.791 33dc Delete type=2 #7590
+2022/07/04-18:09:53.791 33dc Delete type=2 #7591
+2022/07/04-18:09:53.791 33dc Delete type=2 #7592
+2022/07/04-18:09:53.792 33dc Delete type=2 #7593
+2022/07/04-18:09:53.792 33dc Delete type=2 #7607
+2022/07/04-18:10:02.261 2f3c Compacting 1@1 + 10@2 files
+2022/07/04-18:10:02.321 2f3c Generated table #7632@1: 23341 keys, 2141226 bytes
+2022/07/04-18:10:02.464 2f3c Generated table #7633@1: 104002 keys, 2256943 bytes
+2022/07/04-18:10:02.600 2f3c Generated table #7634@1: 90606 keys, 2239095 bytes
+2022/07/04-18:10:02.732 2f3c Generated table #7635@1: 91377 keys, 2239450 bytes
+2022/07/04-18:10:02.848 2f3c Generated table #7636@1: 89627 keys, 2237129 bytes
+2022/07/04-18:10:02.947 2f3c Generated table #7637@1: 90458 keys, 2239899 bytes
+2022/07/04-18:10:03.073 2f3c Generated table #7638@1: 90485 keys, 2240174 bytes
+2022/07/04-18:10:03.181 2f3c Generated table #7639@1: 89920 keys, 2238800 bytes
+2022/07/04-18:10:03.281 2f3c Generated table #7640@1: 91429 keys, 2240974 bytes
+2022/07/04-18:10:03.365 2f3c Generated table #7641@1: 89620 keys, 2237512 bytes
+2022/07/04-18:10:03.375 2f3c Generated table #7642@1: 7619 keys, 179140 bytes
+2022/07/04-18:10:03.375 2f3c Compacted 1@1 + 10@2 files => 22490342 bytes
+2022/07/04-18:10:03.377 2f3c compacted to: files[ 0 1 45 8 0 0 0 ]
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7568
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7569
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7570
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7571
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7572
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7573
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7574
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7575
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7576
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7577
+2022/07/04-18:10:03.378 2f3c Delete type=2 #7605
+2022/07/04-18:10:06.752 a00 Compacting 1@1 + 8@2 files
+2022/07/04-18:10:06.855 a00 Generated table #7643@1: 90606 keys, 2238239 bytes
+2022/07/04-18:10:06.947 a00 Generated table #7644@1: 89038 keys, 2237322 bytes
+2022/07/04-18:10:07.034 a00 Generated table #7645@1: 91418 keys, 2238797 bytes
+2022/07/04-18:10:07.120 a00 Generated table #7646@1: 90003 keys, 2237561 bytes
+2022/07/04-18:10:07.211 a00 Generated table #7647@1: 91844 keys, 2239210 bytes
+2022/07/04-18:10:07.290 a00 Generated table #7648@1: 89677 keys, 2236893 bytes
+2022/07/04-18:10:07.378 a00 Generated table #7649@1: 77048 keys, 2229168 bytes
+2022/07/04-18:10:07.382 a00 Generated table #7650@1: 534 keys, 57779 bytes
+2022/07/04-18:10:07.382 a00 Compacted 1@1 + 8@2 files => 15714969 bytes
+2022/07/04-18:10:07.384 a00 compacted to: files[ 0 0 45 8 0 0 0 ]
+2022/07/04-18:10:07.384 a00 Delete type=2 #7578
+2022/07/04-18:10:07.384 a00 Delete type=2 #7594
+2022/07/04-18:10:07.384 a00 Delete type=2 #7595
+2022/07/04-18:10:07.384 a00 Delete type=2 #7596
+2022/07/04-18:10:07.384 a00 Delete type=2 #7597
+2022/07/04-18:10:07.384 a00 Delete type=2 #7598
+2022/07/04-18:10:07.384 a00 Delete type=2 #7599
+2022/07/04-18:10:07.384 a00 Delete type=2 #7600
+2022/07/04-18:10:07.384 a00 Delete type=2 #7606
+2022/07/04-18:10:35.504 33dc Level-0 table #7652: started
+2022/07/04-18:10:35.550 33dc Level-0 table #7652: 1324059 bytes OK
+2022/07/04-18:10:35.554 33dc Delete type=0 #7601
+2022/07/04-18:10:35.989 12f4 Compacting 1@0 + 0@1 files
+2022/07/04-18:10:36.012 12f4 Generated table #7653@0: 14111 keys, 410658 bytes
+2022/07/04-18:10:36.016 12f4 Generated table #7654@0: 189 keys, 28856 bytes
+2022/07/04-18:10:36.023 12f4 Generated table #7655@0: 3921 keys, 137760 bytes
+2022/07/04-18:10:36.028 12f4 Generated table #7656@0: 3144 keys, 49548 bytes
+2022/07/04-18:10:36.028 12f4 Compacted 1@0 + 0@1 files => 626822 bytes
+2022/07/04-18:10:36.030 12f4 compacted to: files[ 0 4 45 8 0 0 0 ]
+2022/07/04-18:10:36.031 12f4 Delete type=2 #7652
+2022/07/04-18:10:37.182 2f3c Compacting 1@1 + 7@2 files
+2022/07/04-18:10:37.258 2f3c Generated table #7657@1: 58781 keys, 2278052 bytes
+2022/07/04-18:10:37.335 2f3c Generated table #7658@1: 102880 keys, 2254808 bytes
+2022/07/04-18:10:37.430 2f3c Generated table #7659@1: 102640 keys, 2255198 bytes
+2022/07/04-18:10:37.521 2f3c Generated table #7660@1: 21313 keys, 2957438 bytes
+2022/07/04-18:10:37.608 2f3c Generated table #7661@1: 16968 keys, 2857226 bytes
+2022/07/04-18:10:37.672 2f3c Generated table #7662@1: 23826 keys, 2180838 bytes
+2022/07/04-18:10:37.769 2f3c Generated table #7663@1: 53510 keys, 2223814 bytes
+2022/07/04-18:10:37.780 2f3c Generated table #7664@1: 7666 keys, 293603 bytes
+2022/07/04-18:10:37.781 2f3c Compacted 1@1 + 7@2 files => 17300977 bytes
+2022/07/04-18:10:37.783 2f3c compacted to: files[ 0 3 46 8 0 0 0 ]
+2022/07/04-18:10:37.784 2f3c Delete type=2 #7608
+2022/07/04-18:10:37.784 2f3c Delete type=2 #7609
+2022/07/04-18:10:37.784 2f3c Delete type=2 #7610
+2022/07/04-18:10:37.785 2f3c Delete type=2 #7611
+2022/07/04-18:10:37.785 2f3c Delete type=2 #7612
+2022/07/04-18:10:37.785 2f3c Delete type=2 #7613
+2022/07/04-18:10:37.785 2f3c Delete type=2 #7614
+2022/07/04-18:10:37.785 2f3c Delete type=2 #7653
+2022/07/04-18:10:51.225 33dc Compacting 1@1 + 6@2 files
+2022/07/04-18:10:51.272 33dc Generated table #7665@1: 3212 keys, 2146167 bytes
+2022/07/04-18:10:51.320 33dc Generated table #7666@1: 4069 keys, 2147195 bytes
+2022/07/04-18:10:51.408 33dc Generated table #7667@1: 35587 keys, 2230608 bytes
+2022/07/04-18:10:51.552 33dc Generated table #7668@1: 31197 keys, 2270707 bytes
+2022/07/04-18:10:51.647 33dc Generated table #7669@1: 31733 keys, 2264286 bytes
+2022/07/04-18:10:51.733 33dc Generated table #7670@1: 28647 keys, 2212357 bytes
+2022/07/04-18:10:51.737 33dc Generated table #7671@1: 83 keys, 22949 bytes
+2022/07/04-18:10:51.737 33dc Compacted 1@1 + 6@2 files => 13294269 bytes
+2022/07/04-18:10:51.738 33dc compacted to: files[ 0 2 47 8 0 0 0 ]
+2022/07/04-18:10:51.739 33dc Delete type=2 #7617
+2022/07/04-18:10:51.739 33dc Delete type=2 #7618
+2022/07/04-18:10:51.739 33dc Delete type=2 #7619
+2022/07/04-18:10:51.739 33dc Delete type=2 #7620
+2022/07/04-18:10:51.739 33dc Delete type=2 #7621
+2022/07/04-18:10:51.739 33dc Delete type=2 #7622
+2022/07/04-18:10:51.739 33dc Delete type=2 #7654
+2022/07/04-18:10:51.990 224c Compacting 1@2 + 8@3 files
+2022/07/04-18:10:52.110 224c Generated table #7672@2: 39413 keys, 2260344 bytes
+2022/07/04-18:10:52.280 224c Generated table #7673@2: 45562 keys, 2280563 bytes
+2022/07/04-18:10:52.424 224c Generated table #7674@2: 18674 keys, 2342323 bytes
+2022/07/04-18:10:52.543 224c Generated table #7675@2: 35969 keys, 2284963 bytes
+2022/07/04-18:10:52.646 224c Generated table #7676@2: 26499 keys, 2291995 bytes
+2022/07/04-18:10:52.784 224c Generated table #7677@2: 30635 keys, 2272967 bytes
+2022/07/04-18:10:52.931 224c Generated table #7678@2: 35801 keys, 2286131 bytes
+2022/07/04-18:10:53.049 224c Generated table #7679@2: 29115 keys, 2277557 bytes
+2022/07/04-18:10:53.093 224c Generated table #7680@2: 27965 keys, 699479 bytes
+2022/07/04-18:10:53.093 224c Compacted 1@2 + 8@3 files => 18996322 bytes
+2022/07/04-18:10:53.095 224c compacted to: files[ 0 2 46 9 0 0 0 ]
+2022/07/04-18:10:53.095 224c Delete type=2 #7624
+2022/07/04-18:10:53.095 224c Delete type=2 #7625
+2022/07/04-18:10:53.095 224c Delete type=2 #7626
+2022/07/04-18:10:53.095 224c Delete type=2 #7627
+2022/07/04-18:10:53.096 224c Delete type=2 #7628
+2022/07/04-18:10:53.096 224c Delete type=2 #7629
+2022/07/04-18:10:53.096 224c Delete type=2 #7630
+2022/07/04-18:10:53.096 224c Delete type=2 #7631
+2022/07/04-18:10:53.096 224c Delete type=2 #7657
+2022/07/04-18:10:56.289 2f3c Compacting 1@1 + 10@2 files
+2022/07/04-18:10:56.344 2f3c Generated table #7681@1: 17607 keys, 2134517 bytes
+2022/07/04-18:10:56.448 2f3c Generated table #7682@1: 106558 keys, 2260131 bytes
+2022/07/04-18:10:56.533 2f3c Generated table #7683@1: 90534 keys, 2238408 bytes
+2022/07/04-18:10:56.617 2f3c Generated table #7684@1: 91134 keys, 2239236 bytes
+2022/07/04-18:10:56.705 2f3c Generated table #7685@1: 89703 keys, 2238032 bytes
+2022/07/04-18:10:57.038 2f3c Generated table #7686@1: 90482 keys, 2237576 bytes
+2022/07/04-18:10:57.124 2f3c Generated table #7687@1: 90338 keys, 2238823 bytes
+2022/07/04-18:10:57.207 2f3c Generated table #7688@1: 89947 keys, 2239812 bytes
+2022/07/04-18:10:57.294 2f3c Generated table #7689@1: 90338 keys, 2240090 bytes
+2022/07/04-18:10:57.397 2f3c Generated table #7690@1: 90769 keys, 2240564 bytes
+2022/07/04-18:10:57.406 2f3c Generated table #7691@1: 7376 keys, 184306 bytes
+2022/07/04-18:10:57.406 2f3c Compacted 1@1 + 10@2 files => 22491495 bytes
+2022/07/04-18:10:57.407 2f3c compacted to: files[ 0 1 47 9 0 0 0 ]
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7632
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7633
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7634
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7635
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7636
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7637
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7638
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7639
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7640
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7641
+2022/07/04-18:10:57.408 2f3c Delete type=2 #7655
+2022/07/04-18:11:05.834 224c Compacting 1@1 + 8@2 files
+2022/07/04-18:11:05.957 224c Generated table #7692@1: 91094 keys, 2239409 bytes
+2022/07/04-18:11:06.067 224c Generated table #7693@1: 88761 keys, 2236190 bytes
+2022/07/04-18:11:06.180 224c Generated table #7694@1: 91016 keys, 2238693 bytes
+2022/07/04-18:11:06.303 224c Generated table #7695@1: 90503 keys, 2239408 bytes
+2022/07/04-18:11:06.436 224c Generated table #7696@1: 91336 keys, 2238858 bytes
+2022/07/04-18:11:06.575 224c Generated table #7697@1: 90294 keys, 2239756 bytes
+2022/07/04-18:11:06.725 224c Generated table #7698@1: 85036 keys, 2236065 bytes
+2022/07/04-18:11:06.737 224c Generated table #7699@1: 2357 keys, 255771 bytes
+2022/07/04-18:11:06.737 224c Compacted 1@1 + 8@2 files => 15924150 bytes
+2022/07/04-18:11:06.739 224c compacted to: files[ 0 0 47 9 0 0 0 ]
+2022/07/04-18:11:06.740 224c Delete type=2 #7642
+2022/07/04-18:11:06.740 224c Delete type=2 #7643
+2022/07/04-18:11:06.740 224c Delete type=2 #7644
+2022/07/04-18:11:06.740 224c Delete type=2 #7645
+2022/07/04-18:11:06.740 224c Delete type=2 #7646
+2022/07/04-18:11:06.740 224c Delete type=2 #7647
+2022/07/04-18:11:06.740 224c Delete type=2 #7648
+2022/07/04-18:11:06.740 224c Delete type=2 #7649
+2022/07/04-18:11:06.740 224c Delete type=2 #7656
+2022/07/04-18:11:49.694 224c Level-0 table #7701: started
+2022/07/04-18:11:49.736 224c Level-0 table #7701: 1269009 bytes OK
+2022/07/04-18:11:49.739 224c Delete type=0 #7651
+2022/07/04-18:11:49.862 224c Compacting 1@0 + 0@1 files
+2022/07/04-18:11:49.892 224c Generated table #7702@0: 18196 keys, 305952 bytes
+2022/07/04-18:11:49.896 224c Generated table #7703@0: 236 keys, 32038 bytes
+2022/07/04-18:11:49.909 224c Generated table #7704@0: 4700 keys, 170758 bytes
+2022/07/04-18:11:49.917 224c Generated table #7705@0: 3914 keys, 65216 bytes
+2022/07/04-18:11:49.917 224c Compacted 1@0 + 0@1 files => 573964 bytes
+2022/07/04-18:11:49.919 224c compacted to: files[ 0 4 47 9 0 0 0 ]
+2022/07/04-18:11:49.920 224c Delete type=2 #7701
+2022/07/04-18:11:50.734 a00 Compacting 1@1 + 10@2 files
+2022/07/04-18:11:50.895 a00 Generated table #7706@1: 109761 keys, 2267559 bytes
+2022/07/04-18:11:51.038 a00 Generated table #7707@1: 102781 keys, 2256176 bytes
+2022/07/04-18:11:51.152 a00 Generated table #7708@1: 32205 keys, 2870411 bytes
+2022/07/04-18:11:51.258 a00 Generated table #7709@1: 16790 keys, 2968694 bytes
+2022/07/04-18:11:51.325 a00 Generated table #7710@1: 20165 keys, 2169228 bytes
+2022/07/04-18:11:51.417 a00 Generated table #7711@1: 54613 keys, 2228306 bytes
+2022/07/04-18:11:51.469 a00 Generated table #7712@1: 13120 keys, 2166956 bytes
+2022/07/04-18:11:51.507 a00 Generated table #7713@1: 3676 keys, 2153623 bytes
+2022/07/04-18:11:51.535 a00 Generated table #7714@1: 1763 keys, 1010289 bytes
+2022/07/04-18:11:51.535 a00 Compacted 1@1 + 10@2 files => 20091242 bytes
+2022/07/04-18:11:51.538 a00 compacted to: files[ 0 3 46 9 0 0 0 ]
+2022/07/04-18:11:51.538 a00 Delete type=2 #7517
+2022/07/04-18:11:51.538 a00 Delete type=2 #7615
+2022/07/04-18:11:51.538 a00 Delete type=2 #7616
+2022/07/04-18:11:51.538 a00 Delete type=2 #7658
+2022/07/04-18:11:51.538 a00 Delete type=2 #7659
+2022/07/04-18:11:51.539 a00 Delete type=2 #7660
+2022/07/04-18:11:51.539 a00 Delete type=2 #7661
+2022/07/04-18:11:51.539 a00 Delete type=2 #7662
+2022/07/04-18:11:51.539 a00 Delete type=2 #7663
+2022/07/04-18:11:51.539 a00 Delete type=2 #7664
+2022/07/04-18:11:51.539 a00 Delete type=2 #7702
+2022/07/04-18:11:54.578 12f4 Compacting 1@1 + 10@2 files
+2022/07/04-18:11:54.619 12f4 Generated table #7715@1: 10500 keys, 2124118 bytes
+2022/07/04-18:11:54.715 12f4 Generated table #7716@1: 109551 keys, 2263771 bytes
+2022/07/04-18:11:54.792 12f4 Generated table #7717@1: 90698 keys, 2240309 bytes
+2022/07/04-18:11:54.881 12f4 Generated table #7718@1: 91114 keys, 2239716 bytes
+2022/07/04-18:11:54.957 12f4 Generated table #7719@1: 89609 keys, 2239109 bytes
+2022/07/04-18:11:55.036 12f4 Generated table #7720@1: 90721 keys, 2240063 bytes
+2022/07/04-18:11:55.137 12f4 Generated table #7721@1: 90279 keys, 2237564 bytes
+2022/07/04-18:11:55.234 12f4 Generated table #7722@1: 89539 keys, 2239038 bytes
+2022/07/04-18:11:55.368 12f4 Generated table #7723@1: 90570 keys, 2240643 bytes
+2022/07/04-18:11:55.477 12f4 Generated table #7724@1: 90550 keys, 2239484 bytes
+2022/07/04-18:11:55.487 12f4 Generated table #7725@1: 8979 keys, 222789 bytes
+2022/07/04-18:11:55.487 12f4 Compacted 1@1 + 10@2 files => 22526604 bytes
+2022/07/04-18:11:55.489 12f4 compacted to: files[ 0 2 47 9 0 0 0 ]
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7681
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7682
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7683
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7684
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7685
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7686
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7687
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7688
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7689
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7690
+2022/07/04-18:11:55.490 12f4 Delete type=2 #7704
+2022/07/04-18:11:55.587 a00 Compacting 1@2 + 9@3 files
+2022/07/04-18:11:55.663 a00 Generated table #7726@2: 38752 keys, 2260638 bytes
+2022/07/04-18:11:55.755 a00 Generated table #7727@2: 45552 keys, 2281238 bytes
+2022/07/04-18:11:55.809 a00 Generated table #7728@2: 18607 keys, 2337896 bytes
+2022/07/04-18:11:55.876 a00 Generated table #7729@2: 35926 keys, 2285139 bytes
+2022/07/04-18:11:55.933 a00 Generated table #7730@2: 26515 keys, 2292896 bytes
+2022/07/04-18:11:55.994 a00 Generated table #7731@2: 30589 keys, 2272910 bytes
+2022/07/04-18:11:56.064 a00 Generated table #7732@2: 35873 keys, 2285281 bytes
+2022/07/04-18:11:56.125 a00 Generated table #7733@2: 29090 keys, 2277676 bytes
+2022/07/04-18:11:56.191 a00 Generated table #7734@2: 98061 keys, 2258735 bytes
+2022/07/04-18:11:56.207 a00 Generated table #7735@2: 22868 keys, 505382 bytes
+2022/07/04-18:11:56.207 a00 Compacted 1@2 + 9@3 files => 21057791 bytes
+2022/07/04-18:11:56.209 a00 compacted to: files[ 0 2 46 10 0 0 0 ]
+2022/07/04-18:11:56.209 a00 Delete type=2 #7672
+2022/07/04-18:11:56.209 a00 Delete type=2 #7673
+2022/07/04-18:11:56.209 a00 Delete type=2 #7674
+2022/07/04-18:11:56.209 a00 Delete type=2 #7675
+2022/07/04-18:11:56.209 a00 Delete type=2 #7676
+2022/07/04-18:11:56.209 a00 Delete type=2 #7677
+2022/07/04-18:11:56.209 a00 Delete type=2 #7678
+2022/07/04-18:11:56.209 a00 Delete type=2 #7679
+2022/07/04-18:11:56.209 a00 Delete type=2 #7680
+2022/07/04-18:11:56.210 a00 Delete type=2 #7706
+2022/07/04-18:11:58.050 a00 Compacting 1@1 + 6@2 files
+2022/07/04-18:11:58.080 a00 Generated table #7736@1: 3192 keys, 2146073 bytes
+2022/07/04-18:11:58.114 a00 Generated table #7737@1: 4068 keys, 2148089 bytes
+2022/07/04-18:11:58.213 a00 Generated table #7738@1: 35375 keys, 2229515 bytes
+2022/07/04-18:11:58.328 a00 Generated table #7739@1: 31241 keys, 2271942 bytes
+2022/07/04-18:11:58.393 a00 Generated table #7740@1: 31733 keys, 2263989 bytes
+2022/07/04-18:11:58.447 a00 Generated table #7741@1: 28993 keys, 2213676 bytes
+2022/07/04-18:11:58.451 a00 Generated table #7742@1: 31 keys, 27190 bytes
+2022/07/04-18:11:58.451 a00 Compacted 1@1 + 6@2 files => 13300474 bytes
+2022/07/04-18:11:58.452 a00 compacted to: files[ 0 1 47 10 0 0 0 ]
+2022/07/04-18:11:58.452 a00 Delete type=2 #7665
+2022/07/04-18:11:58.452 a00 Delete type=2 #7666
+2022/07/04-18:11:58.452 a00 Delete type=2 #7667
+2022/07/04-18:11:58.452 a00 Delete type=2 #7668
+2022/07/04-18:11:58.452 a00 Delete type=2 #7669
+2022/07/04-18:11:58.452 a00 Delete type=2 #7670
+2022/07/04-18:11:58.452 a00 Delete type=2 #7703
+2022/07/04-18:12:09.065 224c Compacting 1@1 + 8@2 files
+2022/07/04-18:12:09.170 224c Generated table #7743@1: 91162 keys, 2239041 bytes
+2022/07/04-18:12:09.312 224c Generated table #7744@1: 88884 keys, 2237134 bytes
+2022/07/04-18:12:09.441 224c Generated table #7745@1: 90420 keys, 2239591 bytes
+2022/07/04-18:12:09.580 224c Generated table #7746@1: 90675 keys, 2238088 bytes
+2022/07/04-18:12:09.766 224c Generated table #7747@1: 90871 keys, 2239901 bytes
+2022/07/04-18:12:09.889 224c Generated table #7748@1: 90891 keys, 2239042 bytes
+2022/07/04-18:12:10.000 224c Generated table #7749@1: 88970 keys, 2236129 bytes
+2022/07/04-18:12:10.014 224c Generated table #7750@1: 7457 keys, 289960 bytes
+2022/07/04-18:12:10.014 224c Compacted 1@1 + 8@2 files => 15958886 bytes
+2022/07/04-18:12:10.016 224c compacted to: files[ 0 0 47 10 0 0 0 ]
+2022/07/04-18:12:10.017 224c Delete type=2 #7691
+2022/07/04-18:12:10.017 224c Delete type=2 #7692
+2022/07/04-18:12:10.017 224c Delete type=2 #7693
+2022/07/04-18:12:10.017 224c Delete type=2 #7694
+2022/07/04-18:12:10.017 224c Delete type=2 #7695
+2022/07/04-18:12:10.017 224c Delete type=2 #7696
+2022/07/04-18:12:10.017 224c Delete type=2 #7697
+2022/07/04-18:12:10.017 224c Delete type=2 #7698
+2022/07/04-18:12:10.017 224c Delete type=2 #7705
