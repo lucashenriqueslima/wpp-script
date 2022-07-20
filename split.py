@@ -21,7 +21,7 @@ def search_for_contact(browser_instance, contact, data):
     time.sleep(2)
     input_seacrh.send_keys(contact)
 
-    time.sleep(4)
+    time.sleep(7)
 
     if browser_instance.find_elements(By.CSS_SELECTOR ,"div[style='height: 49px; width: 49px;']") :
         
@@ -35,9 +35,14 @@ def search_for_contact(browser_instance, contact, data):
         input_seacrh.send_keys(Keys.CONTROL, "a")
         input_seacrh.send_keys(Keys.BACKSPACE)
         input_seacrh.click()
-        time.sleep(1)
+        time.sleep(3)
         input_seacrh.send_keys(contact) 
-        time.sleep(4)
+        time.sleep(6)
+    
+    else:   
+        response = requests.post("https://www.studiomfotografia.com.br/api/scripts/save-regua-cobranca-erro?passwd=a)()8***0--asf", {"id_duplicata_fatura": data['id_item'], "nome_formando": data['nome_formando'], "cod_formando": data['id'], "telefone": data['telefone'], "parcela": data['parcela_atual'], "motivo": "Número não encontrado"})
+        print(response.text)
+        return False
     
     if browser_instance.find_elements(By.CSS_SELECTOR ,"div[style='height: 49px; width: 49px;']"):
         input_seacrh.send_keys(Keys.ENTER)
@@ -64,7 +69,7 @@ def send_document(browser_instance, document_path):
     browser_instance.find_element(By.CSS_SELECTOR, ("span[data-icon='clip']")).click()
     attach = browser_instance.find_element(By.CSS_SELECTOR, "input[type='file']")
     attach.send_keys(document_path)
-    time.sleep(4)
+    time.sleep(6)
     send_button = WebDriverWait(browser_instance, 10).until(EC.element_to_be_clickable((browser_instance.find_element(By.CSS_SELECTOR, "span[data-icon='send']")))).click()        
 
 def select_contact_area_for_scrap():
@@ -83,6 +88,7 @@ def do_scrap(contact, message, need_to_send_document, document_path):
     select_contact_area_for_scrap()
 
 datas = requests.get("https://www.studiomfotografia.com.br/api/scripts/get-regua-cobranca-to-script?passwd=a)()8***0--asf").json()
+
 base_dir = "C:\\Users\\Studio M\\Documents\\"
 
 # for data in datas:

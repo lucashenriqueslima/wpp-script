@@ -1,3 +1,7 @@
-2022/07/04-18:04:41.338 217c Reusing MANIFEST C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\Local Storage\leveldb/MANIFEST-000001
-2022/07/04-18:04:41.339 217c Recovering log #6
-2022/07/04-18:04:41.340 217c Reusing old log C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\Local Storage\leveldb/000006.log 
+2022/07/19-16:00:52.330 3740 Reusing MANIFEST C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/19-16:00:52.331 3740 Recovering log #6
+2022/07/19-16:00:52.332 3740 Level-0 table #9: started
+2022/07/19-16:00:52.342 3740 Level-0 table #9: 11689 bytes OK
+2022/07/19-16:00:52.343 3740 Recovering log #9
+2022/07/19-16:00:52.345 3740 Reusing old log C:\Users\Studio M\Desktop\script_wpp-main\profile\wpp\Default\Local Storage\leveldb/000009.log 
+2022/07/19-16:00:52.351 3740 Delete type=0 #6
