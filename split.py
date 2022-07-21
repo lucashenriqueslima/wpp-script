@@ -13,18 +13,21 @@ from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 
 def search_for_contact(browser_instance, contact, data):
+
     input_seacrh = WebDriverWait(browser_instance, 1000).until(EC.element_to_be_clickable((By.CLASS_NAME, "selectable-text")))
     input_seacrh.click()
     input_seacrh.send_keys(Keys.CONTROL, "a")
     input_seacrh.send_keys(Keys.BACKSPACE)
     input_seacrh.click()
-    time.sleep(2)
+    time.sleep(1)
     input_seacrh.send_keys(contact)
 
-    time.sleep(7)
+    time.sleep(2)
+
+    while((len(browser_instance.find_elements(By.XPATH, "//*[contains(text(), 'Nenhuma conversa, contato ou mensagem encontrada')]")) == 0) and (len(browser_instance.find_elements(By.XPATH, "//*[contains(text(), 'Conversas')]")) == 0)):
+        time.sleep(2)
 
     if browser_instance.find_elements(By.CSS_SELECTOR ,"div[style='height: 49px; width: 49px;']") :
-        
         input_seacrh.send_keys(Keys.ENTER)
         print("Encontrou o contato")
         return True
@@ -35,15 +38,18 @@ def search_for_contact(browser_instance, contact, data):
         input_seacrh.send_keys(Keys.CONTROL, "a")
         input_seacrh.send_keys(Keys.BACKSPACE)
         input_seacrh.click()
-        time.sleep(3)
+        time.sleep(1)
         input_seacrh.send_keys(contact) 
-        time.sleep(6)
+        time.sleep(2)
     
     else:   
         response = requests.post("https://www.studiomfotografia.com.br/api/scripts/save-regua-cobranca-erro?passwd=a)()8***0--asf", {"id_duplicata_fatura": data['id_item'], "nome_formando": data['nome_formando'], "cod_formando": data['id'], "telefone": data['telefone'], "parcela": data['parcela_atual'], "motivo": "Número não encontrado"})
         print(response.text)
         return False
     
+    while((len(browser_instance.find_elements(By.XPATH, "//*[contains(text(), 'Nenhuma conversa, contato ou mensagem encontrada')]")) == 0) and (len(browser_instance.find_elements(By.XPATH, "//*[contains(text(), 'Conversas')]")) == 0)):
+        time.sleep(2)
+
     if browser_instance.find_elements(By.CSS_SELECTOR ,"div[style='height: 49px; width: 49px;']"):
         input_seacrh.send_keys(Keys.ENTER)
         
@@ -91,18 +97,18 @@ datas = requests.get("https://www.studiomfotografia.com.br/api/scripts/get-regua
 
 base_dir = "C:\\Users\\Studio M\\Documents\\"
 
-# for data in datas:
+for data in datas:
 
-#     url_to_get_pdf = data['boleto_wpp']
+    url_to_get_pdf = data['boleto_wpp']
 
-#     response = requests.get(url_to_get_pdf)
+    response = requests.get(url_to_get_pdf)
 
     
 
-#     if response.status_code == 200:
-#         file_path = os.path.join(base_dir, f"{data['id_item']}.{'html' if data['link'] != None else 'pdf'}")
-#         with open(file_path, "wb") as f:
-#             f.write(response.content)
+    if response.status_code == 200:
+        file_path = os.path.join(base_dir, f"{data['id_item']}.{'html' if data['link'] != None else 'pdf'}")
+        with open(file_path, "wb") as f:
+            f.write(response.content)
 
 dir_path = os.getcwd()
 profile = os.path.join(dir_path, "profile", "wpp")
@@ -122,7 +128,7 @@ time.sleep(2)
 input_seacrh.send_keys("teste")
 for data in datas:
     if(search_for_contact(browser, data['telefone'], data) == True):
-        time.sleep(2)
+        time.sleep(3)
         send_message(browser, data['mensagem_wpp'])
         send_document(browser, base_dir + data['id_item'] + f".{'html' if data['link'] != None else 'pdf'}")
 time.sleep(1000)

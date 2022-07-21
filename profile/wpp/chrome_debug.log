@@ -1,5 +1,1 @@
-[3684:7728:0719/165918.976:ERROR:device_event_log_impl.cc(214)] [16:59:18.975] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
-[3684:6632:0719/170014.305:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
-[3684:7728:0719/170152.446:INFO:CONSOLE(22)] "Warning: getOperatorList - ignoring errors during "GetOperatorList: page 0" task: "DataCloneError: Failed to execute 'postMessage' on 'DedicatedWorkerGlobalScope': function at() { [native code] } could not be cloned.".", source: https://web.whatsapp.com/pdf.worker.96d1bc1f3d0105cd5a81bae7a9dad228.js (22)
-[3684:7728:0719/170220.293:INFO:CONSOLE(22)] "Warning: getOperatorList - ignoring errors during "GetOperatorList: page 0" task: "DataCloneError: Failed to execute 'postMessage' on 'DedicatedWorkerGlobalScope': function at() { [native code] } could not be cloned.".", source: https://web.whatsapp.com/pdf.worker.96d1bc1f3d0105cd5a81bae7a9dad228.js (22)
-[3684:7728:0719/170704.011:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2860:9304:0721/143507.199:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
